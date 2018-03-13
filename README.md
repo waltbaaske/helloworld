@@ -14,7 +14,7 @@ some content here...
 
 ## License & Authors
 
-Author:: Wbaaske (NotMyEmail@nowhere.com)
+Author:: WBaaske (NotMyEmail@nowhere.com)
 
 Copyright:: 2018 WBaaske
 
